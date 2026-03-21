@@ -1,2 +1,3 @@
-# mini-news-aggregator-6tmf
-A repository to test GitHub automation for issue management
+# Mini News Aggregator 6Tmf
+
+A repository to test GitHub automation for issue management.
